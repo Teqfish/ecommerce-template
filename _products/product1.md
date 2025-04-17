@@ -1,5 +1,5 @@
 ---
-identifier: teddy-bear
+identifier: firefox
 name: Firefox
 price: 666.00
 image: /assets/images/mozilla-firefox-plish-front.jpg
